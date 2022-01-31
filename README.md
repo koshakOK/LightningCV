@@ -1,2 +1,2 @@
 # LightningCV
-A patterns of CV common problems using PyTorchLightning
+Patterns of CV common problems using PyTorchLightning
